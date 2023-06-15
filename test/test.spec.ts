@@ -1,4 +1,4 @@
-import { Webhook, Embed } from '..';
+import { Webhook, Embed } from '../dist';
 
 const WEBHOOK_URL = ''; // Put your webhook URL here
 
