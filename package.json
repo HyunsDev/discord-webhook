@@ -1,6 +1,6 @@
 {
     "name": "@hyunsdev/discord-webhook",
-    "version": "1.0.0",
+    "version": "1.0.",
     "description": "A simple discord webhook wrapper",
     "private": false,
     "license": "GPL-3.0",
